@@ -1,5 +1,5 @@
 *.npy
-datasets\
-datasets_demo\
-notebooks_ignore_old_version\
-testing_code_ignore\
+datasets/
+datasets_demo/
+notebooks_ignore_old_version/
+testing_code_ignore/
