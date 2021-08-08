@@ -324,3 +324,10 @@ if __name__ == "__main__":
     root.wm_title("ASL Translator")
     app = asl_app(root)
     del app
+
+
+
+
+
+
+
