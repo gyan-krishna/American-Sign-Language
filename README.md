@@ -2,14 +2,20 @@
 
 
 American-Sign-Language is a deep learning model that is aimed at translating
-sign language from a video stream or an image. the model runs of landmarks extracted by media pipe which is fed to a cnn model with 4 trailing dense layers
+sign language from a video stream or an image. the model runs of landmarks extracted by media pipe which is fed to a cnn model with 4 trailing dense layers. the model is trainned using keras
 
-## Packages used:
-* keras
-* Tensorflow
-* opencv
-* mediapipe
-* os
+## Run these commands to install necessary packages
+
+```
+!pip install mediapipe
+!pip install opencv-python
+!pip install tensorflow
+!pip install keras
+!pip install tqdm
+!pip install scikit-learn
+!pip install graphviz
+!pip install seaborn
+```
 
 ## Screen shots
 
@@ -27,15 +33,6 @@ collected earlier. Performance analysis is done and it exports the model for lat
 4. <b> ASL App.ipynb:</b> python file where an application is created using Tkinter that uses the model
 created before to perform live translation from a webcam.
 
-## Run these commands to install necessary packages
 
-```
-!pip install mediapipe
-!pip install opencv-python
-!pip install tensorflow
-!pip install keras
-!pip install tqdm
-!pip install scikit-learn
-!pip install graphviz
-!pip install seaborn
-```
+## ASL character set
+<img src = "images/ASL_Alphabet.jpg" width = 300>
