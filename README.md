@@ -1,8 +1,16 @@
 # American Sign Language Translator
 
+## Contributers:
+* Gyan Krishna
+* Swarnadip Dutta
+* Raunak Chatterjee
+
+## <i>Huge thanks for guidance received from Shiladitya Sengupta! </i>
+
 
 American-Sign-Language is a deep learning model that is aimed at translating
 sign language from a video stream or an image. the model runs of landmarks extracted by media pipe which is fed to a cnn model with 4 trailing dense layers. the model is trainned using keras. This is my final year project for BSc Computer Science.
+
 
 ## Run these commands to install necessary packages
 
