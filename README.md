@@ -30,12 +30,12 @@ created before to perform live translation from a webcam.
 ## Run these commands to install necessary packages
 
 ```
-!pip install mediapipe </br>
-!pip install opencv-python </br>
-!pip install tensorflow </br>
-!pip install keras </br>
-!pip install tqdm </br>
-!pip install scikit-learn </br>
-!pip install graphviz </br>
-!pip install seaborn </br>
+!pip install mediapipe
+!pip install opencv-python
+!pip install tensorflow
+!pip install keras
+!pip install tqdm
+!pip install scikit-learn
+!pip install graphviz
+!pip install seaborn
 ```
